@@ -7,7 +7,6 @@
   "dependencies": {
     "crypto": "0.0.3",
     "date-utils": "^1.2.16",
-    "htmlparser": "^1.7.7",
     "hubot": "^2.12.0",
     "hubot-cron": "^0.2.9",
     "hubot-diagnostics": "0.0.1",
@@ -27,7 +26,6 @@
     "hubot-youtube": "^0.1.2",
     "hubucket": "^0.3.0",
     "scraper": "0.0.9",
-    "soupselect": "^0.2.0",
     "time": "^0.11.2",
     "xml2js": "^0.4.8"
   },
