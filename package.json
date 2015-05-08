@@ -25,7 +25,6 @@
     "hubot-trollbot": "^0.1.1",
     "hubot-youtube": "^0.1.2",
     "hubucket": "^0.3.0",
-    "scraper": "0.0.9",
     "time": "^0.11.2"
   },
   "engines": {
