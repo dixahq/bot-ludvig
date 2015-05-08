@@ -26,8 +26,7 @@
     "hubot-youtube": "^0.1.2",
     "hubucket": "^0.3.0",
     "scraper": "0.0.9",
-    "time": "^0.11.2",
-    "xml2js": "^0.4.8"
+    "time": "^0.11.2"
   },
   "engines": {
     "node": "0.10.x"
